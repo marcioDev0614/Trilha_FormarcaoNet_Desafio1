@@ -1,0 +1,16 @@
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\bin\Debug\net5.0\FormacaoNetDioConsole.exe
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\bin\Debug\net5.0\FormacaoNetDioConsole.deps.json
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\bin\Debug\net5.0\FormacaoNetDioConsole.runtimeconfig.json
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\bin\Debug\net5.0\FormacaoNetDioConsole.runtimeconfig.dev.json
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\bin\Debug\net5.0\FormacaoNetDioConsole.dll
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\bin\Debug\net5.0\ref\FormacaoNetDioConsole.dll
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\bin\Debug\net5.0\FormacaoNetDioConsole.pdb
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.csproj.AssemblyReference.cache
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.AssemblyInfoInputs.cache
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.AssemblyInfo.cs
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.csproj.CoreCompileInputs.cache
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.dll
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\ref\FormacaoNetDioConsole.dll
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.pdb
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.genruntimeconfig.cache
