@@ -14,3 +14,5 @@ E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\n
 E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\ref\FormacaoNetDioConsole.dll
 E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.pdb
 E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.genruntimeconfig.cache
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\FormacaoNetDioConsole\FormacaoNetDioConsole\FormacaoNetDioConsole\obj\Debug\net5.0\FormacaoNetDioConsole.csproj.CopyComplete
